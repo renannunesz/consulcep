@@ -1,0 +1,19 @@
+{
+    "name": "renan/consulcep",
+    "description": "estudo de busca de cep",
+    "autoload": {
+        "psr-4": {
+            "Renan\\Consulcep\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "renannunesz",
+            "email": "renannunesctb@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=7.0"
+    }
+}
